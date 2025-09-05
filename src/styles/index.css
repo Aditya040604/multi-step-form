@@ -1,0 +1,9 @@
+@import "./fonts.css";
+@import "./variable.css";
+@import "./reset.css";
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

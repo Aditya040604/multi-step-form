@@ -1,0 +1,10 @@
+.sidebar {
+  height: 100%;
+  background-image: url("assets/images/bg-sidebar-desktop.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: var(--radius);
+  color: var(--white);
+  padding: 3rem;
+}

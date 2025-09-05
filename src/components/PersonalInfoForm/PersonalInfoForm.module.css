@@ -1,0 +1,16 @@
+.form {
+  padding-block: 2rem;
+}
+
+.form div {
+  padding-block: 1rem;
+}
+.form h1 {
+  font-size: 2rem;
+  color: var(--blue-950);
+}
+
+.form span {
+  font-size: 1rem;
+  color: var(--grey-500);
+}

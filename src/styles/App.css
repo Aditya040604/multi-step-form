@@ -1,0 +1,7 @@
+main {
+  display: grid;
+  height: 95vh;
+  width: 98vw;
+  grid-template-columns: minmax(200px, 20%) 1fr;
+  gap: clamp(20px, 9vw, 20%);
+}
